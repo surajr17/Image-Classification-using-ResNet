@@ -1,4 +1,4 @@
-# Session 12
+# Term Project
 
 ## Introduction
 This assignment is focused towards getting acquainted with Pytorch Lightning, Gradio and HuggingFace🤗 Spaces.
